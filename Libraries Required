@@ -1,0 +1,10 @@
+import os    #Provides functions for interacting with the operating system
+import sys           #Provides functions and variables that are used to manipulate different parts of the Python runtime environment.
+from tempfile import NamedTemporaryFile       #Creates temporary files that are automatically deleted when they are closed.
+from urllib.request import urlopen        #Opens a URL and returns a file-like object for reading from it.
+from urllib.parse import unquote       #Decodes a URL-encoded string.
+from urllib.parse import urlparse      #Parses a URL into its components.
+from urllib.error import HTTPError        #Represents an HTTP error
+from zipfile import ZipFile      #Provides tools for creating, reading, writing, and extracting ZIP files.
+import tarfile         #Provides tools for reading and writing tar archives.
+import shutil        #Provides functions for file operations, such as copying and deleting files.
