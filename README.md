@@ -24,6 +24,6 @@ This project is licensed under the EPL-2.0 license - see the LICENSE file for de
 ## Installation
  Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Leveraging NLP for Sentiment and Tweet Analysis of the Ukraine Conflict.git
+   git clone https://github.com/solo-coder13/Leveraging NLP for Sentiment and Tweet Analysis of the Ukraine Conflict.git
 
 
